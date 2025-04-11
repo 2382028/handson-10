@@ -19,4 +19,8 @@ describe('AppController', () => {
       expect(appController.getHello()).toBe('Hello World!');
     });
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 1c417bcf3cfbc064fd86774912485fa87a83bec2
